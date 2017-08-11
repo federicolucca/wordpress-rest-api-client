@@ -13,6 +13,6 @@ class DailyNews extends AbstractWpEndpoint
      */
     protected function getEndpoint()
     {
-        return '/wp-json/wp/v2/dailynews';
+        return '/wp-json/wp/v2/daily-new';
     }
 }
